@@ -580,6 +580,12 @@ footer {
   text-align: left;
 }
 
+.credit {
+  margin-bottom: 8px;
+  color: var(--ink);
+  font-weight: 820;
+}
+
 @keyframes energySweep {
   from {
     transform: translateX(-35%) rotate(-3deg);

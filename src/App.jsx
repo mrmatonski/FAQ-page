@@ -209,6 +209,7 @@ function App() {
       </section>
 
       <footer>
+        <p className="credit">Created by Michael Maton</p>
         <p>
           Sources: International Energy Agency Energy and AI outlook, U.S. Energy
           Information Administration data-center electricity demand analysis, and
